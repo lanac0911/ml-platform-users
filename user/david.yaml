@@ -1,12 +1,12 @@
 user:
-  username: Sean
-  email: m31527@gmail.com
+  username: david
+  email: david.chou@asiaycm.com
 
 profile:
   name: medium      # small | medium | large
 
 cuda:
-  version: cuda12.9
+  version: cuda12.8
 
 storage:
   size: 170Gi

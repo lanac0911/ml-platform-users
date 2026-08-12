@@ -7,8 +7,8 @@
 # The platform will take care of provisioning, networking,
 # GPU binding, and credentials automatically.
 user:
-  username: aaa
-  email: xhw.14616@gmail.com
+  username: larry
+  email: larryncent.14616@gmail.com
 
 profile:
 # small  → 1 GPU (16GB VRAM)

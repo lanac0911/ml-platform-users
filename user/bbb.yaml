@@ -7,7 +7,7 @@
 # The platform will take care of provisioning, networking,
 # GPU binding, and credentials automatically.
 user:
-  username: aaa
+  username: bbb
   email: xhw.14616@gmail.com
 
 profile:
